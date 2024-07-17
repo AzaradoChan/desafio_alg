@@ -1,0 +1,4 @@
+Disciplina: disc3 Mediana: 50.0
+Disciplina: disc4 Mediana: 50.0
+Disciplina: disc1 Mediana: 50.0
+Disciplina: disc2 Mediana: 50.0

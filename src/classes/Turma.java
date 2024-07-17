@@ -11,10 +11,10 @@ public class Turma {
 
   public Turma() {
       this.disciplinas = new HashMap<>();
-      this.disciplinas.put("disc1", new Disciplina());
-      this.disciplinas.put("disc2", new Disciplina());
-      this.disciplinas.put("disc3", new Disciplina());
-      this.disciplinas.put("disc4", new Disciplina());
+      this.disciplinas.put("disc1", new Disciplina("disc1"));
+      this.disciplinas.put("disc2", new Disciplina("disc2"));
+      this.disciplinas.put("disc3", new Disciplina("disc3"));
+      this.disciplinas.put("disc4", new Disciplina("disc4"));
       
       this.alunos = new ArrayList<>();
   }
@@ -38,13 +38,16 @@ public class Turma {
       this.qtdAlunos++;
   }
 
-  public void getMediaDisciplinaDisciplina() {
+  public String getMMDPorDisciplina() {
     StringBuilder sb = new StringBuilder();
     this.disciplinas.forEach((disciplina, disciplinaObj) -> {
-      sb.append("Disciplina: " + disciplina + "\n");
-      sb.append("Media: " + disciplinaObj.getMedia() + "\n");
-      sb.append("Mediana: " + disciplinaObj.getMediana() + "\n");
+      sb.append("\n\t Disciplina: " + disciplina + "\n");
+      sb.append("\t Media: " + disciplinaObj.getMedia() + "\n");
+      sb.append("\t Mediana: " + disciplinaObj.getMediana() + "\n");
+      sb.append("\t Desvio Padrao: " + disciplinaObj.getDesvioPadrao() + "\n\n");
     });
+
+    return sb.toString();
   }
   public long getQtdAlunos() {
       return this.qtdAlunos;

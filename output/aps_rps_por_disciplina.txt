@@ -1,0 +1,770 @@
+Ano: 2012 {
+
+	Disciplina: disc3
+	Aprovados: 3618
+	Reprovados: 8401
+
+
+	Disciplina: disc4
+	Aprovados: 3674
+	Reprovados: 8345
+
+
+	Disciplina: disc1
+	Aprovados: 3704
+	Reprovados: 8315
+
+
+	Disciplina: disc2
+	Aprovados: 3786
+	Reprovados: 8233
+
+}
+Ano: 2011 {
+
+	Disciplina: disc3
+	Aprovados: 3698
+	Reprovados: 8256
+
+
+	Disciplina: disc4
+	Aprovados: 3647
+	Reprovados: 8307
+
+
+	Disciplina: disc1
+	Aprovados: 3670
+	Reprovados: 8284
+
+
+	Disciplina: disc2
+	Aprovados: 3673
+	Reprovados: 8281
+
+}
+Ano: 2010 {
+
+	Disciplina: disc3
+	Aprovados: 3766
+	Reprovados: 8491
+
+
+	Disciplina: disc4
+	Aprovados: 3716
+	Reprovados: 8541
+
+
+	Disciplina: disc1
+	Aprovados: 3744
+	Reprovados: 8513
+
+
+	Disciplina: disc2
+	Aprovados: 3765
+	Reprovados: 8492
+
+}
+Ano: 1998 {
+
+	Disciplina: disc3
+	Aprovados: 3693
+	Reprovados: 8544
+
+
+	Disciplina: disc4
+	Aprovados: 3785
+	Reprovados: 8452
+
+
+	Disciplina: disc1
+	Aprovados: 3813
+	Reprovados: 8424
+
+
+	Disciplina: disc2
+	Aprovados: 3659
+	Reprovados: 8577
+
+}
+Ano: 2009 {
+
+	Disciplina: disc3
+	Aprovados: 3752
+	Reprovados: 8466
+
+
+	Disciplina: disc4
+	Aprovados: 3663
+	Reprovados: 8555
+
+
+	Disciplina: disc1
+	Aprovados: 3763
+	Reprovados: 8455
+
+
+	Disciplina: disc2
+	Aprovados: 3728
+	Reprovados: 8490
+
+}
+Ano: 1997 {
+
+	Disciplina: disc3
+	Aprovados: 3651
+	Reprovados: 8329
+
+
+	Disciplina: disc4
+	Aprovados: 3667
+	Reprovados: 8313
+
+
+	Disciplina: disc1
+	Aprovados: 3676
+	Reprovados: 8304
+
+
+	Disciplina: disc2
+	Aprovados: 3665
+	Reprovados: 8315
+
+}
+Ano: 2008 {
+
+	Disciplina: disc3
+	Aprovados: 3634
+	Reprovados: 8395
+
+
+	Disciplina: disc4
+	Aprovados: 3734
+	Reprovados: 8295
+
+
+	Disciplina: disc1
+	Aprovados: 3700
+	Reprovados: 8329
+
+
+	Disciplina: disc2
+	Aprovados: 3680
+	Reprovados: 8349
+
+}
+Ano: 2007 {
+
+	Disciplina: disc3
+	Aprovados: 3588
+	Reprovados: 8218
+
+
+	Disciplina: disc4
+	Aprovados: 3555
+	Reprovados: 8251
+
+
+	Disciplina: disc1
+	Aprovados: 3533
+	Reprovados: 8273
+
+
+	Disciplina: disc2
+	Aprovados: 3573
+	Reprovados: 8233
+
+}
+Ano: 1996 {
+
+	Disciplina: disc3
+	Aprovados: 3681
+	Reprovados: 8407
+
+
+	Disciplina: disc4
+	Aprovados: 3704
+	Reprovados: 8384
+
+
+	Disciplina: disc1
+	Aprovados: 3711
+	Reprovados: 8377
+
+
+	Disciplina: disc2
+	Aprovados: 3663
+	Reprovados: 8425
+
+}
+Ano: 2006 {
+
+	Disciplina: disc3
+	Aprovados: 3752
+	Reprovados: 8318
+
+
+	Disciplina: disc4
+	Aprovados: 3740
+	Reprovados: 8330
+
+
+	Disciplina: disc1
+	Aprovados: 3759
+	Reprovados: 8311
+
+
+	Disciplina: disc2
+	Aprovados: 3720
+	Reprovados: 8350
+
+}
+Ano: 1995 {
+
+	Disciplina: disc3
+	Aprovados: 3674
+	Reprovados: 8315
+
+
+	Disciplina: disc4
+	Aprovados: 3672
+	Reprovados: 8317
+
+
+	Disciplina: disc1
+	Aprovados: 3749
+	Reprovados: 8240
+
+
+	Disciplina: disc2
+	Aprovados: 3750
+	Reprovados: 8239
+
+}
+Ano: 2005 {
+
+	Disciplina: disc3
+	Aprovados: 3745
+	Reprovados: 8400
+
+
+	Disciplina: disc4
+	Aprovados: 3755
+	Reprovados: 8390
+
+
+	Disciplina: disc1
+	Aprovados: 3868
+	Reprovados: 8277
+
+
+	Disciplina: disc2
+	Aprovados: 3711
+	Reprovados: 8434
+
+}
+Ano: 1994 {
+
+	Disciplina: disc3
+	Aprovados: 3755
+	Reprovados: 8431
+
+
+	Disciplina: disc4
+	Aprovados: 3784
+	Reprovados: 8402
+
+
+	Disciplina: disc1
+	Aprovados: 3703
+	Reprovados: 8483
+
+
+	Disciplina: disc2
+	Aprovados: 3784
+	Reprovados: 8402
+
+}
+Ano: 1993 {
+
+	Disciplina: disc3
+	Aprovados: 3741
+	Reprovados: 8288
+
+
+	Disciplina: disc4
+	Aprovados: 3642
+	Reprovados: 8387
+
+
+	Disciplina: disc1
+	Aprovados: 3766
+	Reprovados: 8263
+
+
+	Disciplina: disc2
+	Aprovados: 3630
+	Reprovados: 8399
+
+}
+Ano: 2004 {
+
+	Disciplina: disc3
+	Aprovados: 3729
+	Reprovados: 8321
+
+
+	Disciplina: disc4
+	Aprovados: 3755
+	Reprovados: 8295
+
+
+	Disciplina: disc1
+	Aprovados: 3754
+	Reprovados: 8296
+
+
+	Disciplina: disc2
+	Aprovados: 3741
+	Reprovados: 8309
+
+}
+Ano: 1992 {
+
+	Disciplina: disc3
+	Aprovados: 3657
+	Reprovados: 8378
+
+
+	Disciplina: disc4
+	Aprovados: 3750
+	Reprovados: 8285
+
+
+	Disciplina: disc1
+	Aprovados: 3678
+	Reprovados: 8357
+
+
+	Disciplina: disc2
+	Aprovados: 3749
+	Reprovados: 8286
+
+}
+Ano: 2003 {
+
+	Disciplina: disc3
+	Aprovados: 3655
+	Reprovados: 8374
+
+
+	Disciplina: disc4
+	Aprovados: 3618
+	Reprovados: 8411
+
+
+	Disciplina: disc1
+	Aprovados: 3622
+	Reprovados: 8407
+
+
+	Disciplina: disc2
+	Aprovados: 3708
+	Reprovados: 8321
+
+}
+Ano: 1991 {
+
+	Disciplina: disc3
+	Aprovados: 3808
+	Reprovados: 8354
+
+
+	Disciplina: disc4
+	Aprovados: 3739
+	Reprovados: 8423
+
+
+	Disciplina: disc1
+	Aprovados: 3722
+	Reprovados: 8440
+
+
+	Disciplina: disc2
+	Aprovados: 3778
+	Reprovados: 8384
+
+}
+Ano: 2024 {
+
+	Disciplina: disc3
+	Aprovados: 3750
+	Reprovados: 8275
+
+
+	Disciplina: disc4
+	Aprovados: 3665
+	Reprovados: 8360
+
+
+	Disciplina: disc1
+	Aprovados: 3644
+	Reprovados: 8381
+
+
+	Disciplina: disc2
+	Aprovados: 3673
+	Reprovados: 8352
+
+}
+Ano: 2002 {
+
+	Disciplina: disc3
+	Aprovados: 3681
+	Reprovados: 8368
+
+
+	Disciplina: disc4
+	Aprovados: 3672
+	Reprovados: 8377
+
+
+	Disciplina: disc1
+	Aprovados: 3582
+	Reprovados: 8467
+
+
+	Disciplina: disc2
+	Aprovados: 3583
+	Reprovados: 8466
+
+}
+Ano: 1999 {
+
+	Disciplina: disc3
+	Aprovados: 3645
+	Reprovados: 8268
+
+
+	Disciplina: disc4
+	Aprovados: 3724
+	Reprovados: 8189
+
+
+	Disciplina: disc1
+	Aprovados: 3639
+	Reprovados: 8274
+
+
+	Disciplina: disc2
+	Aprovados: 3530
+	Reprovados: 8383
+
+}
+Ano: 2001 {
+
+	Disciplina: disc3
+	Aprovados: 3774
+	Reprovados: 8269
+
+
+	Disciplina: disc4
+	Aprovados: 3698
+	Reprovados: 8345
+
+
+	Disciplina: disc1
+	Aprovados: 3729
+	Reprovados: 8314
+
+
+	Disciplina: disc2
+	Aprovados: 3627
+	Reprovados: 8416
+
+}
+Ano: 1990 {
+
+	Disciplina: disc3
+	Aprovados: 3583
+	Reprovados: 8429
+
+
+	Disciplina: disc4
+	Aprovados: 3703
+	Reprovados: 8309
+
+
+	Disciplina: disc1
+	Aprovados: 3711
+	Reprovados: 8301
+
+
+	Disciplina: disc2
+	Aprovados: 3691
+	Reprovados: 8321
+
+}
+Ano: 2023 {
+
+	Disciplina: disc3
+	Aprovados: 3781
+	Reprovados: 8390
+
+
+	Disciplina: disc4
+	Aprovados: 3661
+	Reprovados: 8510
+
+
+	Disciplina: disc1
+	Aprovados: 3726
+	Reprovados: 8445
+
+
+	Disciplina: disc2
+	Aprovados: 3759
+	Reprovados: 8412
+
+}
+Ano: 2022 {
+
+	Disciplina: disc3
+	Aprovados: 3760
+	Reprovados: 8444
+
+
+	Disciplina: disc4
+	Aprovados: 3724
+	Reprovados: 8480
+
+
+	Disciplina: disc1
+	Aprovados: 3705
+	Reprovados: 8499
+
+
+	Disciplina: disc2
+	Aprovados: 3652
+	Reprovados: 8552
+
+}
+Ano: 2000 {
+
+	Disciplina: disc3
+	Aprovados: 3773
+	Reprovados: 8320
+
+
+	Disciplina: disc4
+	Aprovados: 3768
+	Reprovados: 8325
+
+
+	Disciplina: disc1
+	Aprovados: 3679
+	Reprovados: 8414
+
+
+	Disciplina: disc2
+	Aprovados: 3638
+	Reprovados: 8455
+
+}
+Ano: 2021 {
+
+	Disciplina: disc3
+	Aprovados: 3614
+	Reprovados: 8435
+
+
+	Disciplina: disc4
+	Aprovados: 3718
+	Reprovados: 8331
+
+
+	Disciplina: disc1
+	Aprovados: 3733
+	Reprovados: 8316
+
+
+	Disciplina: disc2
+	Aprovados: 3647
+	Reprovados: 8402
+
+}
+Ano: 2020 {
+
+	Disciplina: disc3
+	Aprovados: 3782
+	Reprovados: 8406
+
+
+	Disciplina: disc4
+	Aprovados: 3838
+	Reprovados: 8350
+
+
+	Disciplina: disc1
+	Aprovados: 3732
+	Reprovados: 8456
+
+
+	Disciplina: disc2
+	Aprovados: 3818
+	Reprovados: 8370
+
+}
+Ano: 2019 {
+
+	Disciplina: disc3
+	Aprovados: 3755
+	Reprovados: 8317
+
+
+	Disciplina: disc4
+	Aprovados: 3682
+	Reprovados: 8390
+
+
+	Disciplina: disc1
+	Aprovados: 3737
+	Reprovados: 8335
+
+
+	Disciplina: disc2
+	Aprovados: 3642
+	Reprovados: 8430
+
+}
+Ano: 2018 {
+
+	Disciplina: disc3
+	Aprovados: 3726
+	Reprovados: 8337
+
+
+	Disciplina: disc4
+	Aprovados: 3638
+	Reprovados: 8425
+
+
+	Disciplina: disc1
+	Aprovados: 3663
+	Reprovados: 8400
+
+
+	Disciplina: disc2
+	Aprovados: 3749
+	Reprovados: 8314
+
+}
+Ano: 2017 {
+
+	Disciplina: disc3
+	Aprovados: 3755
+	Reprovados: 8433
+
+
+	Disciplina: disc4
+	Aprovados: 3642
+	Reprovados: 8546
+
+
+	Disciplina: disc1
+	Aprovados: 3627
+	Reprovados: 8561
+
+
+	Disciplina: disc2
+	Aprovados: 3786
+	Reprovados: 8402
+
+}
+Ano: 2016 {
+
+	Disciplina: disc3
+	Aprovados: 3684
+	Reprovados: 8361
+
+
+	Disciplina: disc4
+	Aprovados: 3690
+	Reprovados: 8355
+
+
+	Disciplina: disc1
+	Aprovados: 3671
+	Reprovados: 8374
+
+
+	Disciplina: disc2
+	Aprovados: 3604
+	Reprovados: 8441
+
+}
+Ano: 2015 {
+
+	Disciplina: disc3
+	Aprovados: 3711
+	Reprovados: 8271
+
+
+	Disciplina: disc4
+	Aprovados: 3628
+	Reprovados: 8354
+
+
+	Disciplina: disc1
+	Aprovados: 3728
+	Reprovados: 8254
+
+
+	Disciplina: disc2
+	Aprovados: 3723
+	Reprovados: 8259
+
+}
+Ano: 2014 {
+
+	Disciplina: disc3
+	Aprovados: 3708
+	Reprovados: 8417
+
+
+	Disciplina: disc4
+	Aprovados: 3631
+	Reprovados: 8494
+
+
+	Disciplina: disc1
+	Aprovados: 3690
+	Reprovados: 8435
+
+
+	Disciplina: disc2
+	Aprovados: 3755
+	Reprovados: 8370
+
+}
+Ano: 2013 {
+
+	Disciplina: disc3
+	Aprovados: 3611
+	Reprovados: 8380
+
+
+	Disciplina: disc4
+	Aprovados: 3677
+	Reprovados: 8314
+
+
+	Disciplina: disc1
+	Aprovados: 3694
+	Reprovados: 8297
+
+
+	Disciplina: disc2
+	Aprovados: 3666
+	Reprovados: 8325
+
+}

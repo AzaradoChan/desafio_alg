@@ -1,0 +1,915 @@
+Total de Alunos: 422498
+Aprovados no Total: 3725
+Reprovados no Total: 418773
+Melhor Aluno: 360605 Media Desempenho: 98.75
+Pior Aluno: 269741 Media Desempenho: 3.0
+Ano: 2012 {
+
+	 Disciplina: disc3
+	 Media: 49.718112987769366
+	 Mediana: 49.0
+	 Desvio Padrao: 29.219894370800045
+
+
+	 Disciplina: disc4
+	 Media: 49.889341875364
+	 Mediana: 50.0
+	 Desvio Padrao: 29.161195239915404
+
+
+	 Disciplina: disc1
+	 Media: 49.93268990764623
+	 Mediana: 50.0
+	 Desvio Padrao: 29.137118486469674
+
+
+	 Disciplina: disc2
+	 Media: 49.978450786255095
+	 Mediana: 50.0
+	 Desvio Padrao: 29.45749520114582
+
+}
+Ano: 2011 {
+
+	 Disciplina: disc3
+	 Media: 50.1425464279739
+	 Mediana: 51.0
+	 Desvio Padrao: 29.197958055886588
+
+
+	 Disciplina: disc4
+	 Media: 49.88330266019742
+	 Mediana: 50.0
+	 Desvio Padrao: 29.092702309863736
+
+
+	 Disciplina: disc1
+	 Media: 49.965367241090846
+	 Mediana: 50.0
+	 Desvio Padrao: 29.19840867126246
+
+
+	 Disciplina: disc2
+	 Media: 49.876359377614186
+	 Mediana: 50.0
+	 Desvio Padrao: 29.28883705735009
+
+}
+Ano: 2010 {
+
+	 Disciplina: disc3
+	 Media: 50.0249653259362
+	 Mediana: 50.0
+	 Desvio Padrao: 29.183325816637577
+
+
+	 Disciplina: disc4
+	 Media: 49.818960593946315
+	 Mediana: 50.0
+	 Desvio Padrao: 29.215531852498046
+
+
+	 Disciplina: disc1
+	 Media: 49.94811128334829
+	 Mediana: 50.0
+	 Desvio Padrao: 29.07840228665325
+
+
+	 Disciplina: disc2
+	 Media: 49.8740311658644
+	 Mediana: 50.0
+	 Desvio Padrao: 29.20895775603974
+
+}
+Ano: 1998 {
+
+	 Disciplina: disc3
+	 Media: 49.90562183363295
+	 Mediana: 50.0
+	 Desvio Padrao: 29.162855405730205
+
+
+	 Disciplina: disc4
+	 Media: 50.039630658604345
+	 Mediana: 50.0
+	 Desvio Padrao: 29.057133843877246
+
+
+	 Disciplina: disc1
+	 Media: 50.28419676417715
+	 Mediana: 51.0
+	 Desvio Padrao: 29.244607426741727
+
+
+	 Disciplina: disc2
+	 Media: 49.402271613008665
+	 Mediana: 49.0
+	 Desvio Padrao: 28.938682515174232
+
+}
+Ano: 2009 {
+
+	 Disciplina: disc3
+	 Media: 50.16917662465215
+	 Mediana: 50.0
+	 Desvio Padrao: 29.157927789550104
+
+
+	 Disciplina: disc4
+	 Media: 49.81641839908332
+	 Mediana: 49.0
+	 Desvio Padrao: 29.0031173730877
+
+
+	 Disciplina: disc1
+	 Media: 50.11073825503356
+	 Mediana: 50.0
+	 Desvio Padrao: 29.221795608934592
+
+
+	 Disciplina: disc2
+	 Media: 50.0239810116222
+	 Mediana: 50.0
+	 Desvio Padrao: 29.07673814341975
+
+}
+Ano: 1997 {
+
+	 Disciplina: disc3
+	 Media: 50.130884808013356
+	 Mediana: 50.0
+	 Desvio Padrao: 29.142151706108233
+
+
+	 Disciplina: disc4
+	 Media: 49.90667779632721
+	 Mediana: 50.0
+	 Desvio Padrao: 29.313289142445054
+
+
+	 Disciplina: disc1
+	 Media: 50.24465776293823
+	 Mediana: 50.0
+	 Desvio Padrao: 29.126965614092704
+
+
+	 Disciplina: disc2
+	 Media: 50.12429048414023
+	 Mediana: 50.0
+	 Desvio Padrao: 29.025444958647903
+
+}
+Ano: 2008 {
+
+	 Disciplina: disc3
+	 Media: 49.85044475850029
+	 Mediana: 50.0
+	 Desvio Padrao: 29.018313380358972
+
+
+	 Disciplina: disc4
+	 Media: 50.35098511929504
+	 Mediana: 50.0
+	 Desvio Padrao: 29.22199558988785
+
+
+	 Disciplina: disc1
+	 Media: 49.88353146562474
+	 Mediana: 50.0
+	 Desvio Padrao: 29.107707066276728
+
+
+	 Disciplina: disc2
+	 Media: 49.804389392301935
+	 Mediana: 50.0
+	 Desvio Padrao: 29.219709070097842
+
+}
+Ano: 2007 {
+
+	 Disciplina: disc3
+	 Media: 50.04429950872438
+	 Mediana: 50.0
+	 Desvio Padrao: 29.096630575347685
+
+
+	 Disciplina: disc4
+	 Media: 49.71887176012197
+	 Mediana: 50.0
+	 Desvio Padrao: 29.164400405384693
+
+
+	 Disciplina: disc1
+	 Media: 49.49534135185499
+	 Mediana: 50.0
+	 Desvio Padrao: 29.008336531517664
+
+
+	 Disciplina: disc2
+	 Media: 49.55827545315941
+	 Mediana: 49.0
+	 Desvio Padrao: 29.175773633426573
+
+}
+Ano: 1996 {
+
+	 Disciplina: disc3
+	 Media: 49.41040701522171
+	 Mediana: 49.0
+	 Desvio Padrao: 29.505895397971518
+
+
+	 Disciplina: disc4
+	 Media: 50.014146260754465
+	 Mediana: 50.0
+	 Desvio Padrao: 29.072401833942873
+
+
+	 Disciplina: disc1
+	 Media: 49.98568828590337
+	 Mediana: 50.0
+	 Desvio Padrao: 29.349260586283705
+
+
+	 Disciplina: disc2
+	 Media: 49.548974189278624
+	 Mediana: 49.0
+	 Desvio Padrao: 29.13206056824118
+
+}
+Ano: 2006 {
+
+	 Disciplina: disc3
+	 Media: 50.28318144159072
+	 Mediana: 51.0
+	 Desvio Padrao: 29.034051496463647
+
+
+	 Disciplina: disc4
+	 Media: 50.17009113504557
+	 Mediana: 50.0
+	 Desvio Padrao: 29.239238034476426
+
+
+	 Disciplina: disc1
+	 Media: 50.338690969345485
+	 Mediana: 50.0
+	 Desvio Padrao: 29.220025579892795
+
+
+	 Disciplina: disc2
+	 Media: 50.01930405965203
+	 Mediana: 50.0
+	 Desvio Padrao: 29.252590368384055
+
+}
+Ano: 1995 {
+
+	 Disciplina: disc3
+	 Media: 50.06122278755526
+	 Mediana: 50.0
+	 Desvio Padrao: 29.009231221760366
+
+
+	 Disciplina: disc4
+	 Media: 49.89089999165902
+	 Mediana: 50.0
+	 Desvio Padrao: 29.17988093583562
+
+
+	 Disciplina: disc1
+	 Media: 50.529819000750685
+	 Mediana: 51.0
+	 Desvio Padrao: 29.00053150203789
+
+
+	 Disciplina: disc2
+	 Media: 50.24188839769789
+	 Mediana: 50.0
+	 Desvio Padrao: 29.22873876072381
+
+}
+Ano: 2005 {
+
+	 Disciplina: disc3
+	 Media: 50.34540963359407
+	 Mediana: 51.0
+	 Desvio Padrao: 29.082325200657568
+
+
+	 Disciplina: disc4
+	 Media: 49.96278303828736
+	 Mediana: 50.0
+	 Desvio Padrao: 29.16160897964777
+
+
+	 Disciplina: disc1
+	 Media: 50.68596130094689
+	 Mediana: 51.0
+	 Desvio Padrao: 29.26658922150868
+
+
+	 Disciplina: disc2
+	 Media: 49.948785508439684
+	 Mediana: 50.0
+	 Desvio Padrao: 29.14441285576062
+
+}
+Ano: 1994 {
+
+	 Disciplina: disc3
+	 Media: 50.09404234367307
+	 Mediana: 50.0
+	 Desvio Padrao: 29.048907281265187
+
+
+	 Disciplina: disc4
+	 Media: 50.16822583292303
+	 Mediana: 50.0
+	 Desvio Padrao: 29.125321524992803
+
+
+	 Disciplina: disc1
+	 Media: 49.74684063679632
+	 Mediana: 50.0
+	 Desvio Padrao: 29.242754384830558
+
+
+	 Disciplina: disc2
+	 Media: 50.350402100771376
+	 Mediana: 51.0
+	 Desvio Padrao: 29.12069287025746
+
+}
+Ano: 1993 {
+
+	 Disciplina: disc3
+	 Media: 50.40585252306925
+	 Mediana: 50.0
+	 Desvio Padrao: 29.03162414673182
+
+
+	 Disciplina: disc4
+	 Media: 49.69107989026519
+	 Mediana: 49.0
+	 Desvio Padrao: 29.03440366127337
+
+
+	 Disciplina: disc1
+	 Media: 50.59273422562141
+	 Mediana: 51.0
+	 Desvio Padrao: 29.144674835072518
+
+
+	 Disciplina: disc2
+	 Media: 49.90073987862665
+	 Mediana: 50.0
+	 Desvio Padrao: 28.950928241135575
+
+}
+Ano: 2004 {
+
+	 Disciplina: disc3
+	 Media: 50.05783752385694
+	 Mediana: 50.0
+	 Desvio Padrao: 29.389586519802744
+
+
+	 Disciplina: disc4
+	 Media: 50.33673554061904
+	 Mediana: 50.0
+	 Desvio Padrao: 29.136594301203534
+
+
+	 Disciplina: disc1
+	 Media: 50.23491826404448
+	 Mediana: 50.0
+	 Desvio Padrao: 29.136520850392092
+
+
+	 Disciplina: disc2
+	 Media: 50.1579122064559
+	 Mediana: 50.0
+	 Desvio Padrao: 29.086824454085047
+
+}
+Ano: 1992 {
+
+	 Disciplina: disc3
+	 Media: 49.91757374324886
+	 Mediana: 50.0
+	 Desvio Padrao: 29.071357895140164
+
+
+	 Disciplina: disc4
+	 Media: 50.262982966348154
+	 Mediana: 51.0
+	 Desvio Padrao: 29.289277754004587
+
+
+	 Disciplina: disc1
+	 Media: 50.13759867054424
+	 Mediana: 50.0
+	 Desvio Padrao: 28.981214115922192
+
+
+	 Disciplina: disc2
+	 Media: 50.17100124636477
+	 Mediana: 50.0
+	 Desvio Padrao: 29.260246650025838
+
+}
+Ano: 2003 {
+
+	 Disciplina: disc3
+	 Media: 50.01820600216144
+	 Mediana: 50.0
+	 Desvio Padrao: 28.87451676227118
+
+
+	 Disciplina: disc4
+	 Media: 49.691911214564804
+	 Mediana: 49.0
+	 Desvio Padrao: 28.90134782566835
+
+
+	 Disciplina: disc1
+	 Media: 49.87588328206834
+	 Mediana: 50.0
+	 Desvio Padrao: 28.99817202327858
+
+
+	 Disciplina: disc2
+	 Media: 49.92759165350403
+	 Mediana: 50.0
+	 Desvio Padrao: 29.15217587781999
+
+}
+Ano: 1991 {
+
+	 Disciplina: disc3
+	 Media: 50.38628515046867
+	 Mediana: 50.5
+	 Desvio Padrao: 29.33373963381947
+
+
+	 Disciplina: disc4
+	 Media: 49.82667324453215
+	 Mediana: 50.0
+	 Desvio Padrao: 29.277548707936976
+
+
+	 Disciplina: disc1
+	 Media: 49.72890971879625
+	 Mediana: 50.0
+	 Desvio Padrao: 29.216861521223823
+
+
+	 Disciplina: disc2
+	 Media: 50.2384476237461
+	 Mediana: 51.0
+	 Desvio Padrao: 29.074987826479926
+
+}
+Ano: 2024 {
+
+	 Disciplina: disc3
+	 Media: 50.49762993762994
+	 Mediana: 51.0
+	 Desvio Padrao: 29.032404553073377
+
+
+	 Disciplina: disc4
+	 Media: 49.78885654885655
+	 Mediana: 49.0
+	 Desvio Padrao: 29.187402099400433
+
+
+	 Disciplina: disc1
+	 Media: 49.75193347193347
+	 Mediana: 50.0
+	 Desvio Padrao: 29.06569377244867
+
+
+	 Disciplina: disc2
+	 Media: 50.08316008316008
+	 Mediana: 50.0
+	 Desvio Padrao: 29.08118800948466
+
+}
+Ano: 2002 {
+
+	 Disciplina: disc3
+	 Media: 49.59482114698315
+	 Mediana: 49.0
+	 Desvio Padrao: 29.350319836967568
+
+
+	 Disciplina: disc4
+	 Media: 50.37563283260022
+	 Mediana: 51.0
+	 Desvio Padrao: 29.06900774086115
+
+
+	 Disciplina: disc1
+	 Media: 49.47564113204415
+	 Mediana: 49.0
+	 Desvio Padrao: 29.197401676212266
+
+
+	 Disciplina: disc2
+	 Media: 49.649680471408416
+	 Mediana: 49.0
+	 Desvio Padrao: 29.022204390536633
+
+}
+Ano: 1999 {
+
+	 Disciplina: disc3
+	 Media: 49.96012759170654
+	 Mediana: 50.0
+	 Desvio Padrao: 29.13399036914946
+
+
+	 Disciplina: disc4
+	 Media: 50.145219508100396
+	 Mediana: 50.0
+	 Desvio Padrao: 29.281276690594634
+
+
+	 Disciplina: disc1
+	 Media: 49.717451523545705
+	 Mediana: 49.0
+	 Desvio Padrao: 29.300758578438057
+
+
+	 Disciplina: disc2
+	 Media: 49.51867707546378
+	 Mediana: 50.0
+	 Desvio Padrao: 29.053992546004544
+
+}
+Ano: 2001 {
+
+	 Disciplina: disc3
+	 Media: 50.33820476625426
+	 Mediana: 51.0
+	 Desvio Padrao: 29.31267710863107
+
+
+	 Disciplina: disc4
+	 Media: 49.99684464003986
+	 Mediana: 50.0
+	 Desvio Padrao: 29.09681685882101
+
+
+	 Disciplina: disc1
+	 Media: 49.96861247197542
+	 Mediana: 50.0
+	 Desvio Padrao: 29.32340655250927
+
+
+	 Disciplina: disc2
+	 Media: 49.72847297185087
+	 Mediana: 50.0
+	 Desvio Padrao: 29.06973080500862
+
+}
+Ano: 1990 {
+
+	 Disciplina: disc3
+	 Media: 49.421578421578424
+	 Mediana: 49.0
+	 Desvio Padrao: 29.174208805837797
+
+
+	 Disciplina: disc4
+	 Media: 50.363053613053616
+	 Mediana: 51.0
+	 Desvio Padrao: 29.11712560097346
+
+
+	 Disciplina: disc1
+	 Media: 50.07992007992008
+	 Mediana: 50.0
+	 Desvio Padrao: 29.109504343950285
+
+
+	 Disciplina: disc2
+	 Media: 49.93223443223443
+	 Mediana: 50.0
+	 Desvio Padrao: 29.173395121572845
+
+}
+Ano: 2023 {
+
+	 Disciplina: disc3
+	 Media: 50.2791882343275
+	 Mediana: 50.0
+	 Desvio Padrao: 29.09047889603598
+
+
+	 Disciplina: disc4
+	 Media: 49.71604633965985
+	 Mediana: 50.0
+	 Desvio Padrao: 28.974481073162337
+
+
+	 Disciplina: disc1
+	 Media: 49.71226686385671
+	 Mediana: 50.0
+	 Desvio Padrao: 29.001126679171133
+
+
+	 Disciplina: disc2
+	 Media: 50.16103853422069
+	 Mediana: 50.0
+	 Desvio Padrao: 29.210449827702703
+
+}
+Ano: 2022 {
+
+	 Disciplina: disc3
+	 Media: 49.851933792199276
+	 Mediana: 50.0
+	 Desvio Padrao: 29.293141215730273
+
+
+	 Disciplina: disc4
+	 Media: 49.979514913143234
+	 Mediana: 50.0
+	 Desvio Padrao: 29.06562619177625
+
+
+	 Disciplina: disc1
+	 Media: 49.693133398885614
+	 Mediana: 49.0
+	 Desvio Padrao: 29.227623875801836
+
+
+	 Disciplina: disc2
+	 Media: 49.50803015404785
+	 Mediana: 49.0
+	 Desvio Padrao: 29.090966818971665
+
+}
+Ano: 2000 {
+
+	 Disciplina: disc3
+	 Media: 50.157529149094515
+	 Mediana: 50.0
+	 Desvio Padrao: 29.253575480727047
+
+
+	 Disciplina: disc4
+	 Media: 50.11700984040354
+	 Mediana: 51.0
+	 Desvio Padrao: 29.297676984904577
+
+
+	 Disciplina: disc1
+	 Media: 50.135946415281566
+	 Mediana: 50.0
+	 Desvio Padrao: 29.003437955213826
+
+
+	 Disciplina: disc2
+	 Media: 49.311419829653516
+	 Mediana: 49.0
+	 Desvio Padrao: 29.099636069771673
+
+}
+Ano: 2021 {
+
+	 Disciplina: disc3
+	 Media: 49.77342518051291
+	 Mediana: 50.0
+	 Desvio Padrao: 29.07857578445906
+
+
+	 Disciplina: disc4
+	 Media: 50.151796829612415
+	 Mediana: 50.0
+	 Desvio Padrao: 29.128645611373855
+
+
+	 Disciplina: disc1
+	 Media: 50.1370238194041
+	 Mediana: 50.0
+	 Desvio Padrao: 29.276625849300526
+
+
+	 Disciplina: disc2
+	 Media: 49.84363847622209
+	 Mediana: 50.0
+	 Desvio Padrao: 29.159090975415225
+
+}
+Ano: 2020 {
+
+	 Disciplina: disc3
+	 Media: 50.029127010173944
+	 Mediana: 50.0
+	 Desvio Padrao: 29.23749085235627
+
+
+	 Disciplina: disc4
+	 Media: 50.321381686905156
+	 Mediana: 50.0
+	 Desvio Padrao: 29.277903175761505
+
+
+	 Disciplina: disc1
+	 Media: 50.084673449294385
+	 Mediana: 50.0
+	 Desvio Padrao: 29.080465950839997
+
+
+	 Disciplina: disc2
+	 Media: 50.183869379717756
+	 Mediana: 50.0
+	 Desvio Padrao: 29.12416543920814
+
+}
+Ano: 2019 {
+
+	 Disciplina: disc3
+	 Media: 49.99146785950961
+	 Mediana: 50.0
+	 Desvio Padrao: 29.468800713176865
+
+
+	 Disciplina: disc4
+	 Media: 49.68696156394964
+	 Mediana: 49.0
+	 Desvio Padrao: 29.209212594264027
+
+
+	 Disciplina: disc1
+	 Media: 49.85337972166998
+	 Mediana: 50.0
+	 Desvio Padrao: 29.278164921919778
+
+
+	 Disciplina: disc2
+	 Media: 50.087972166998014
+	 Mediana: 50.0
+	 Desvio Padrao: 29.039495416282904
+
+}
+Ano: 2018 {
+
+	 Disciplina: disc3
+	 Media: 50.316339219099724
+	 Mediana: 51.0
+	 Desvio Padrao: 29.150006159827168
+
+
+	 Disciplina: disc4
+	 Media: 49.7698748238415
+	 Mediana: 49.0
+	 Desvio Padrao: 28.9954662226677
+
+
+	 Disciplina: disc1
+	 Media: 50.11920749398988
+	 Mediana: 50.0
+	 Desvio Padrao: 28.985522917597255
+
+
+	 Disciplina: disc2
+	 Media: 50.03788444002321
+	 Mediana: 50.0
+	 Desvio Padrao: 29.29790457867081
+
+}
+Ano: 2017 {
+
+	 Disciplina: disc3
+	 Media: 49.932720708893996
+	 Mediana: 50.0
+	 Desvio Padrao: 29.343448575748138
+
+
+	 Disciplina: disc4
+	 Media: 49.62717426977355
+	 Mediana: 49.0
+	 Desvio Padrao: 29.13065398564321
+
+
+	 Disciplina: disc1
+	 Media: 49.66352149655399
+	 Mediana: 50.0
+	 Desvio Padrao: 28.946785685364237
+
+
+	 Disciplina: disc2
+	 Media: 50.369461765671154
+	 Mediana: 50.0
+	 Desvio Padrao: 29.10200324464115
+
+}
+Ano: 2016 {
+
+	 Disciplina: disc3
+	 Media: 49.70045662100457
+	 Mediana: 49.0
+	 Desvio Padrao: 29.256540174881167
+
+
+	 Disciplina: disc4
+	 Media: 49.79078455790785
+	 Mediana: 49.0
+	 Desvio Padrao: 29.13523353062124
+
+
+	 Disciplina: disc1
+	 Media: 50.19775840597758
+	 Mediana: 50.0
+	 Desvio Padrao: 29.119075241504905
+
+
+	 Disciplina: disc2
+	 Media: 49.6346201743462
+	 Mediana: 50.0
+	 Desvio Padrao: 29.16233456064129
+
+}
+Ano: 2015 {
+
+	 Disciplina: disc3
+	 Media: 50.21999666165915
+	 Mediana: 50.0
+	 Desvio Padrao: 29.200891175924244
+
+
+	 Disciplina: disc4
+	 Media: 49.90594224670339
+	 Mediana: 50.0
+	 Desvio Padrao: 29.11363062739628
+
+
+	 Disciplina: disc1
+	 Media: 50.14296444667001
+	 Mediana: 50.0
+	 Desvio Padrao: 29.21936856049187
+
+
+	 Disciplina: disc2
+	 Media: 50.05850442330162
+	 Mediana: 50.0
+	 Desvio Padrao: 29.16857683384181
+
+}
+Ano: 2014 {
+
+	 Disciplina: disc3
+	 Media: 50.00511340206186
+	 Mediana: 50.0
+	 Desvio Padrao: 29.100303867714754
+
+
+	 Disciplina: disc4
+	 Media: 49.410886597938145
+	 Mediana: 49.0
+	 Desvio Padrao: 29.241234778629146
+
+
+	 Disciplina: disc1
+	 Media: 49.95719587628866
+	 Mediana: 50.0
+	 Desvio Padrao: 29.205691839917684
+
+
+	 Disciplina: disc2
+	 Media: 50.15521649484536
+	 Mediana: 50.0
+	 Desvio Padrao: 29.043776248407514
+
+}
+Ano: 2013 {
+
+	 Disciplina: disc3
+	 Media: 49.61354349095155
+	 Mediana: 49.0
+	 Desvio Padrao: 29.25192905136906
+
+
+	 Disciplina: disc4
+	 Media: 50.06788424651822
+	 Mediana: 50.0
+	 Desvio Padrao: 29.11151270512945
+
+
+	 Disciplina: disc1
+	 Media: 50.23934617629889
+	 Mediana: 50.0
+	 Desvio Padrao: 29.078478722526757
+
+
+	 Disciplina: disc2
+	 Media: 50.13868734884497
+	 Mediana: 50.0
+	 Desvio Padrao: 28.9739160758626
+
+}

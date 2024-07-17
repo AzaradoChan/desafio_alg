@@ -60,12 +60,34 @@ public class App {
             }
             bf.close();
 
+            curso.populaListaValoresDisciplina();
+
             HashMap<String, String> dps = curso.getAlunosStatus();
 
             FileManager.writeOutputFile(
                 defaultOutputFilePath + "/dps.txt", dps.get("reprovados"));
             FileManager.writeOutputFile(
                 defaultOutputFilePath + "/aps.txt", dps.get("aprovados"));
+
+            FileManager.writeOutputFile(
+                defaultOutputFilePath + "/aps_rps_por_disciplina.txt", curso.getAprovadosPorDisciplina());
+            
+            FileManager.writeOutputFile(
+                defaultOutputFilePath + "/media_disciplinas.txt", curso.getMediaTotalDisciplinas());
+            
+            FileManager.writeOutputFile(
+                defaultOutputFilePath + "/mediana_disciplinas.txt", curso.getMedianasTotalDisciplinas());
+            
+            FileManager.writeOutputFile(
+                defaultOutputFilePath + "/desvio_padrao.txt", curso.getDesvioPadraoTotalDisciplinas());
+
+            StringBuilder sb = new StringBuilder();
+            sb.append(curso.getTotalAlunos());
+            sb.append(curso.getQtdAlunosStatusTotal());
+            sb.append(curso.getMelhorPiorAluno());
+            sb.append(curso.getMMDPorDisciplina());
+            FileManager.writeOutputFile(
+                defaultOutputFilePath + "/main.txt", sb.toString());
 
             long endTime = System.currentTimeMillis();
             System.out.println("Tempo de execução: " + (endTime - startTime) + "ms");

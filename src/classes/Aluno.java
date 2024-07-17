@@ -2,6 +2,7 @@ package classes;
 
 public class Aluno {
   private String id;
+  private double mediaDesempenho;
   private int disciplina1;
   private int disciplina2;
   private int disciplina3;
@@ -17,12 +18,14 @@ public class Aluno {
       this.disciplina3 = data[3];
       this.disciplina4 = data[4];
       this.ano = String.valueOf(data[5]);
-
+      
       this.qtdMateriasAprovadas = 
-          (this.disciplina1 >= 70 ? 1 : 0) +
-          (this.disciplina2 >= 70 ? 1 : 0) +
-          (this.disciplina3 >= 70 ? 1 : 0) +
-          (this.disciplina4 >= 70 ? 1 : 0);
+        (this.disciplina1 >= 70 ? 1 : 0) +
+        (this.disciplina2 >= 70 ? 1 : 0) +
+        (this.disciplina3 >= 70 ? 1 : 0) +
+        (this.disciplina4 >= 70 ? 1 : 0);
+      
+      this.mediaDesempenho = (this.disciplina1 + this.disciplina2 + this.disciplina3 + this.disciplina4) / 4.0;
   }
 
   public String getId() {
@@ -81,5 +84,10 @@ public class Aluno {
     this.ano = ano;
   }
 
+  public double getMediaDesempenho() {
+    return mediaDesempenho;
+  }
+
+  
   
 }

@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.Objects;
 
 public class Disciplina {
+  public String nome;
   private ArrayList<Integer> notas;
   private  boolean sorted;
   private double somaTotal = 0;
@@ -14,7 +15,8 @@ public class Disciplina {
   private HashMap<String, Integer> aprovados;
   private HashMap<String, Integer> reprovados;
 
-  public Disciplina() {
+  public Disciplina(String nome) {
+      this.nome = nome;
       this.notas = new ArrayList<>();
       this.aprovados = new HashMap<>();
       this.reprovados = new HashMap<>();
@@ -37,6 +39,14 @@ public class Disciplina {
     }
   }
 
+  public Integer getLenAprovados() {
+    return this.aprovados.size();
+  }
+
+  public Integer getLenReprovados() {
+    return this.reprovados.size();
+  }
+
   public double getMedia() {
       return this.somaTotal / this.qtdAluno;
   }
@@ -57,6 +67,15 @@ public class Disciplina {
     return this.mediana;
   }
   
+  public double getDesvioPadrao() {
+    double media = this.getMedia();
+    double sum = 0;
+    for (int nota : this.getNotas()) {
+      sum += Math.pow(nota - media, 2);
+    }
+    return Math.sqrt(sum / this.getNotas().size());
+  }
+
   public ArrayList<Integer> getNotas() {
     return notas;
   }
