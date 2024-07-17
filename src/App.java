@@ -16,13 +16,12 @@ public class App {
 
     public static void main(String[] args) throws Exception {
         long startTime = System.currentTimeMillis();
-        String arquivo = "./input.txt";
         Curso curso = new Curso();
 
         try {
             BufferedReader bf = new BufferedReader(
                 new InputStreamReader(
-                    new FileInputStream(arquivo), StandardCharsets.UTF_8
+                    new FileInputStream(inputFilePath), StandardCharsets.UTF_8
                 ), 10 * 8192
             );
 
